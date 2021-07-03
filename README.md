@@ -32,6 +32,9 @@ Watch
 
 ![plot](./pictures/One%20Piece.jpg)
 
+## Customize
+Maybe you'd like a different background?
 
+![plot](./pictures/Maybe%20Another%20Wallpaper.jpg)
 
 > i might just stop fixing/working on this the day i get bored of it. don't judge me
