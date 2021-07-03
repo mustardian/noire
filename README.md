@@ -34,4 +34,4 @@ Watch
 
 
 
-
+> i might just stop fixing/working on this the day i get bored of it. don't judge me
