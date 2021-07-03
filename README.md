@@ -30,7 +30,7 @@ Search for something
 ## Watch
 Watch
 
-![plot](./pictures/One%20Piece.jpg.jpg)
+![plot](./pictures/One%20Piece.jpg)
 
 
 
