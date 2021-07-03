@@ -13,3 +13,25 @@ Continue where you last left off! (Psst! Doesn't need you to log in with MyAnime
 Find out what's trending.
 
 ![plot](./pictures/TrendingAndContinue.jpg)
+
+## Airing Anime
+Find out what's airing today.
+
+![plot](./pictures/AiringToday.jpg)
+
+
+## Search
+Search for something
+
+![plot](./pictures/Search.jpg)
+
+![plot](./pictures/Results.jpg)
+
+## Watch
+Watch
+
+![plot](./pictures/One%20Piece.jpg.jpg)
+
+
+
+
