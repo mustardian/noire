@@ -32,9 +32,13 @@ Watch
 
 ![plot](./pictures/One%20Piece.jpg)
 
+**Note this doesn't work anymore and I have no plans to fix this**
+
 ## Customize
 Maybe you'd like a different background?
 
 ![plot](./pictures/Maybe%20Another%20Wallpaper.jpg)
 
-> i might just stop fixing/working on this the day i get bored of it. don't judge me
+
+
+>Will no longer be updated. 
